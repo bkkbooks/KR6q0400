@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR6q0400/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6q0400_J_000-0753a, 'n': 0753a, ed: J, source_xml_id: J25.B175.0753a}
+  - {type: line-break, offset: 0, content: '', id: KR6q0400_J_000-0753a01, ed: J, 'n': 0753a01}
+  - {type: substitution, offset: 5, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a02, ed: J, 'n': 0753a02}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753a0201, name: p, role: open, attrs: {'xml:id': pJ25p0753a0201}}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753a0201_end, name: p, role: close, attrs: {'xml:id': pJ25p0753a0201}}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a03, ed: J, 'n': 0753a03}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a04, ed: J, 'n': 0753a04}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a05, ed: J, 'n': 0753a05}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a06, ed: J, 'n': 0753a06}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a07, ed: J, 'n': 0753a07}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a08, ed: J, 'n': 0753a08}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a09, ed: J, 'n': 0753a09}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a10, ed: J, 'n': 0753a10}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a11, ed: J, 'n': 0753a11}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a12, ed: J, 'n': 0753a12}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a13, ed: J, 'n': 0753a13}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a14, ed: J, 'n': 0753a14}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753a15, ed: J, 'n': 0753a15}
+  - {type: page-break, offset: 7, content: '', id: KR6q0400_J_000-0753b, 'n': 0753b, ed: J, source_xml_id: J25.B175.0753b}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b01, ed: J, 'n': 0753b01}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753b0101, name: p, role: open, attrs: {'xml:id': pJ25p0753b0101}}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753b0101_end, name: p, role: close, attrs: {'xml:id': pJ25p0753b0101}}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b02, ed: J, 'n': 0753b02}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b03, ed: J, 'n': 0753b03}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b04, ed: J, 'n': 0753b04}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b05, ed: J, 'n': 0753b05}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b06, ed: J, 'n': 0753b06}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b07, ed: J, 'n': 0753b07}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b08, ed: J, 'n': 0753b08}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b09, ed: J, 'n': 0753b09}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b10, ed: J, 'n': 0753b10}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b11, ed: J, 'n': 0753b11}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b12, ed: J, 'n': 0753b12}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b13, ed: J, 'n': 0753b13}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b14, ed: J, 'n': 0753b14}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753b15, ed: J, 'n': 0753b15}
+  - {type: page-break, offset: 7, content: '', id: KR6q0400_J_000-0753c, 'n': 0753c, ed: J, source_xml_id: J25.B175.0753c}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c01, ed: J, 'n': 0753c01}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753c0101, name: p, role: open, attrs: {'xml:id': pJ25p0753c0101}}
+  - {type: xml-element, offset: 7, content: '', id: pJ25p0753c0101_end, name: p, role: close, attrs: {'xml:id': pJ25p0753c0101}}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c02, ed: J, 'n': 0753c02}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c03, ed: J, 'n': 0753c03}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c04, ed: J, 'n': 0753c04}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c05, ed: J, 'n': 0753c05}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c06, ed: J, 'n': 0753c06}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c07, ed: J, 'n': 0753c07}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c08, ed: J, 'n': 0753c08}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c09, ed: J, 'n': 0753c09}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c10, ed: J, 'n': 0753c10}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c11, ed: J, 'n': 0753c11}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c12, ed: J, 'n': 0753c12}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c13, ed: J, 'n': 0753c13}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c14, ed: J, 'n': 0753c14}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0753c15, ed: J, 'n': 0753c15}
+  - {type: page-break, offset: 7, content: '', id: KR6q0400_J_000-0754a, 'n': 0754a, ed: J, source_xml_id: J25.B175.0754a}
+  - {type: line-break, offset: 7, content: '', id: KR6q0400_J_000-0754a01, ed: J, 'n': 0754a01}
+  body: []
+  back: []
+hash: sha256:0226faabf79db82859a86eba0f32711740eb81be59e493d49d54eb325cc5cb1d

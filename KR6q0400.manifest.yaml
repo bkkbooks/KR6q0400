@@ -1,0 +1,83 @@
+canonical_identifier: bkk:krp/KR6q0400/v1
+canonical_location: https://kanripo.org/bkk/KR6q0400/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大溈五峰學禪師語錄
+  identifiers:
+    alt_id:
+    - J25nB175
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J25/J25nB175.xml
+    old_id: J25nB175
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0400_000.yaml, hash: 'sha256:7018df471240d2be7fe20ea9609c579f29275b08827725916bdc9c60fc1e8eec'}
+  - {seq: 1, filename: KR6q0400_001.yaml, hash: 'sha256:52e271b88177f0a0167275adc175fca4cfdfe8118c8c792a5e4b63cc71c7ab76'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0400_000.markers.yaml, hash: 'sha256:0226faabf79db82859a86eba0f32711740eb81be59e493d49d54eb325cc5cb1d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0400_001.markers.yaml, hash: 'sha256:062ccaebecbe68a7d500bede65e75df58457f3e1fdf37b151c70b3486d7f2daf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0400_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 五峰禪師語錄敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0400_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 6335
+  label: 大溈五峰學禪師語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0400_J_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0400_J_001-mulu-2
+    span:
+    - body
+    - 4306
+    - 4306
+  label: 行實
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0400_J_001-mulu-3
+    span:
+    - body
+    - 5689
+    - 5689
+  label: 塔銘
+  type: mulu
+  level: 1
+hash: sha256:43c8ec4bd93e53f3698318054d61e667faf3026fde9f819f8820e7b91fd45992
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
