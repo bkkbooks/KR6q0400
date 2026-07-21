@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0400_000-J.yaml, hash: 'sha256:d37e5573e4c5dc0aa3873d1d436e6865ff8a4eee27288008d3bec56ff859f139'}
+  - {seq: 0, filename: KR6q0400_000-J.yaml, hash: 'sha256:a028cfbec21643482ba5f12b1e3547934f0df11bae42f736b242987338ee3f68'}
   - {seq: 1, filename: KR6q0400_001-J.yaml, hash: 'sha256:362b3b591d8acc070ba23840abf3da2474f30649efaabd52c1fbac14d8209fd3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0400_000-J.markers.yaml, hash: 'sha256:b53799e75dbc59dd182b331b2ee43eed490981913422811010df57b7dfd1dd67'}
+  - {seq: 0, role: markers, filename: assets/KR6q0400_000-J.markers.yaml, hash: 'sha256:68a78c25a37731eabb79c991dacacf0abb9e16e5096b4e8ba07f7433169ccee4'}
   - {seq: 1, role: markers, filename: assets/KR6q0400_001-J.markers.yaml, hash: 'sha256:2d6014cfeeb773fb5ae3252df7cb87a81b1ba967c097936c7a10f9faaf8ce811'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0400_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 五峰禪師語錄敘
@@ -75,4 +75,4 @@ table_of_contents:
   label: 塔銘
   type: mulu
   level: 1
-hash: sha256:743b172deaa0ee55b4b8de9133f5ac2979db77a11ca05c77d080cc379f242041
+hash: sha256:99afa55bedb02c1ef5336a646a1fd154af980ad44e631d8db1465b533f2a787b

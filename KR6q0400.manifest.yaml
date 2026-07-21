@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0400_000.yaml, hash: 'sha256:7018df471240d2be7fe20ea9609c579f29275b08827725916bdc9c60fc1e8eec'}
+  - {seq: 0, filename: KR6q0400_000.yaml, hash: 'sha256:43b680b9b6a8288ff13c97b696aca856e94daece769ccbfdad26b7e4fc56de9c'}
   - {seq: 1, filename: KR6q0400_001.yaml, hash: 'sha256:acbea4e629234e7c7fef645e98261f622a43804062b99b9922cc421d441b17b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0400_000.markers.yaml, hash: 'sha256:708c1e93419571b00f3f1c4f80c0e29fa129604640066a6b8c52ca1f761bdbde'}
+  - {seq: 0, role: markers, filename: assets/KR6q0400_000.markers.yaml, hash: 'sha256:5ca4f062b07f3027762092e2a1b105a2cef48d94c385613a7c32ca518231dae2'}
   - {seq: 1, role: markers, filename: assets/KR6q0400_001.markers.yaml, hash: 'sha256:e5be392731627cf6ef9e630d1e8e7523760f459eeabb0a0952871cf6fe49115f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0400_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 五峰禪師語錄敘
@@ -77,7 +77,7 @@ table_of_contents:
   label: 塔銘
   type: mulu
   level: 1
-hash: sha256:e38de64abae8073f772bc522d9e5c2a0af03a55bf40d837d2a94dad76e9cdeec
+hash: sha256:c0f6a83412a5c6de8d83069bbf1847acbff54ab0718d1f47a7437cdd7edc16bf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

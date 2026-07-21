@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0400/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 五峰禪師語錄敘
   hash: sha256:17ef0016400d35d3a746bd201122428ba510cb1dd7898db652f7e87e8fef50fd
   markers:
   - {type: 其他, offset: 0, content: 五峰禪師語錄敘, id: KR6q0400_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 大溈五峰學禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J25/J25nB175.xml
     old_id: J25nB175
-hash: sha256:d37e5573e4c5dc0aa3873d1d436e6865ff8a4eee27288008d3bec56ff859f139
+hash: sha256:a028cfbec21643482ba5f12b1e3547934f0df11bae42f736b242987338ee3f68
